@@ -69,7 +69,7 @@ Passionate about e-commerce and continuous learning, I stay updated with industr
 <br/>  
 
 ## Portfolio Links
-:arrow_right: *[https://keepachangelog.com](https://keepachangelog.com)*
+:arrow_right: *[https://www.benaturalgirl.com](https://www.benaturalgirl.com)*
 
 ## Github Stats  
 
@@ -82,9 +82,8 @@ Passionate about e-commerce and continuous learning, I stay updated with industr
 ## Connect with me  
 <div align="start">
 <a href="https://github.com/azharulislam6212" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/azharulislamnipu/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+<a href="https://linkedin.com/in/azharulislamnipu/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 <a href="https://www.facebook.com/https://web.facebook.com/azharulislam.nipu" target="_blank"><img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" /></a>
-<a href="https://gitlab.com/https://github.com/azharulislam6212" target="_blank"><img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/4989918/azharul-islam" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
