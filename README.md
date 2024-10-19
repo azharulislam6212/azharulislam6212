@@ -69,8 +69,9 @@ Passionate about e-commerce and continuous learning, I stay updated with industr
 <br/>  
 
 ## Portfolio Links
-:arrow_right: *[https://www.benaturalgirl.com](https://www.benaturalgirl.com)*
+:arrow_right: *[https://www.benaturalgirl.com](https://www.benaturalgirl.com)* <a href="https://www.benaturalgirl.com" target="_blank"><em>https://www.benaturalgirl.com </em></a> 
 
+<br/>  
 ## Github Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharulislam6212&layout=compact)
