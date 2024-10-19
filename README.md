@@ -69,8 +69,32 @@ Passionate about e-commerce and continuous learning, I stay updated with industr
 <br/>  
 
 ## Portfolio Links
-:arrow_right: *[https://www.benaturalgirl.com](https://www.benaturalgirl.com)* <a href="https://www.benaturalgirl.com" target="_blank"><em>https://www.benaturalgirl.com </em></a> 
-
+:arrow_right: *[https://www.benaturalgirl.com](https://www.benaturalgirl.com)*<br/>
+:arrow_right: *[https://www.myotahealth.com](https://www.myotahealth.com)*<br/>
+:arrow_right: *[https://www.cerealclub.com](https://www.cerealclub.com)*<br/>
+:arrow_right: *[https://www.beautyraena.com](https://www.beautyraena.com)*<br/>
+:arrow_right: *[https://www.bluebrand.com](https://www.bluebrand.com)*<br/>
+:arrow_right: *[https://www.goqhr.com](https://www.goqhr.com)* pass:goqhr<br/>
+:arrow_right: *[https://www.apexinc.co](https://www.apexinc.co)*<br/>
+:arrow_right: *[https://www.gatku.com](https://www.gatku.com)*<br/>
+:arrow_right: *[https://www.mytop.us](https://www.mytop.us)*<br/>
+:arrow_right: *[https://www.snoozetherapy.co.uk](https://www.snoozetherapy.co.uk)*<br/>
+:arrow_right: *[https://www.paintoutlet.co.uk](https://www.paintoutlet.co.uk)*<br/>
+:arrow_right: *[https://www.gilley.uk](https://www.gilley.uk)*<br/>
+:arrow_right: *[https://www.hellerproducts.com](https://www.hellerproducts.com)*<br/>
+:arrow_right: *[https://www.moro-essentials.com](https://www.moro-essentials.com)*<br/>
+:arrow_right: *[https://www.feelgreatvitamins.com](https://www.feelgreatvitamins.com)*<br/>
+:arrow_right: *[https://www.floatingflame.com](https://www.floatingflame.com)*<br/>
+:arrow_right: *[https://www.redbarn.com](https://www.redbarn.com)*<br/>
+:arrow_right: *[https://www.wholesupp.com](https://www.wholesupp.com)*<br/>
+:arrow_right: *[https://www.redbarn.com](https://www.redbarn.com)*<br/>
+:arrow_right: *[https://www.mybeebalmco.com](https://www.mybeebalmco.com)*<br/>
+:arrow_right: *[https://www.glomelanin.com](https://www.glomelanin.com)*<br/>
+:arrow_right: *[https://www.thegreysofa.com](https://www.thegreysofa.com)*<br/>
+:arrow_right: *[https://www.mysteryshirtinabox.com](https://www.mysteryshirtinabox.com)*<br/>
+:arrow_right: *[https://www.rlxneedles.com](https://www.rlxneedles.com)*<br/>
+:arrow_right: *[https://www.phonerebel.com](https://www.phonerebel.com)*<br/>
+:arrow_right: *[https://www.aloesun.com](https://www.aloesun.com)*<br/>
 <br/>  
 ## Github Stats  
 
