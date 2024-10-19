@@ -15,11 +15,14 @@
   </div>
 
 <br/>  
+
+
 ## 🚀 About Me
+<div align="start">  
 I am an experienced Shopify developer with over five years of dedicated expertise in designing, building, and maintaining high-performing e-commerce websites. My journey in the e-commerce space has equipped me with a deep understanding of Shopify's ecosystem, allowing me to create custom themes that not only reflect brand identity but also optimize user experience and drive conversions.
 
 Passionate about e-commerce and continuous learning, I stay updated with industry trends and emerging technologies to provide cutting-edge solutions.
-
+</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
