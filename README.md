@@ -1,8 +1,4 @@
 
-<div style="display:flex; align-items: start; gap: 40" display="flex">
-<div align="start">
-<img width="350px" height="450px" src="https://github.com/user-attachments/assets/9f3cd5c1-c4b5-480b-afa3-8d889e0ee430" align="center" />
-</div>  
   
 
 ### <div align="start">I'm Azharul Islam Nipu, a full-time Shopify developer 👨‍💻 working remotely since 2017🚀</div>  
@@ -20,7 +16,9 @@
 
 <br/>  
 ## 🚀 About Me
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
+I am an experienced Shopify developer with over five years of dedicated expertise in designing, building, and maintaining high-performing e-commerce websites. My journey in the e-commerce space has equipped me with a deep understanding of Shopify's ecosystem, allowing me to create custom themes that not only reflect brand identity but also optimize user experience and drive conversions.
+
+Passionate about e-commerce and continuous learning, I stay updated with industry trends and emerging technologies to provide cutting-edge solutions.
 
 
 ## My Skill Set  
@@ -70,6 +68,16 @@ I’m a Front End Web developer passionate about making error-free websites with
 
 <br/>  
 
+## Portfolio Links
+:arrow_right: *[https://keepachangelog.com](https://keepachangelog.com)*
+
+## Github Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharulislam6212&layout=compact)
+
+
+<br/>  
+
 
 ## Connect with me  
 <div align="start">
@@ -86,9 +94,3 @@ I’m a Front End Web developer passionate about making error-free websites with
 <br/>  
 
 
-## Github Stats  
-<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=azharulislam6212&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
