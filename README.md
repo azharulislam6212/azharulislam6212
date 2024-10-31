@@ -81,7 +81,6 @@ Passionate about e-commerce and continuous learning, I stay updated with industr
 :arrow_right: *[https://www.cerealclub.com](https://www.cerealclub.com)*<br/>
 :arrow_right: *[https://www.beautyraena.com](https://www.beautyraena.com)*<br/>
 :arrow_right: *[https://www.bluebrand.com](https://www.bluebrand.com)*<br/>
-:arrow_right: *[https://www.goqhr.com](https://www.goqhr.com)* pass:goqhr<br/>
 :arrow_right: *[https://www.apexinc.co](https://www.apexinc.co)*<br/>
 :arrow_right: *[https://www.gatku.com](https://www.gatku.com)*<br/>
 :arrow_right: *[https://www.mytop.us](https://www.mytop.us)*<br/>
