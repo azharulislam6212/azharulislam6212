@@ -78,22 +78,18 @@ Passionate about e-commerce and continuous learning, I stay updated with industr
     
 :arrow_right: *[https://www.benaturalgirl.com](https://www.benaturalgirl.com)*<br/>
 :arrow_right: *[https://www.myotahealth.com](https://www.myotahealth.com)*<br/>
-:arrow_right: *[https://www.beautyraena.com](https://www.beautyraena.com)*<br/>
-:arrow_right: *[https://www.bluebrand.com](https://www.bluebrand.com)*<br/>
 :arrow_right: *[https://www.apexinc.co](https://www.apexinc.co)*<br/>
 :arrow_right: *[https://www.gatku.com](https://www.gatku.com)*<br/>
-
 :arrow_right: *[https://www.gilley.uk](https://www.gilley.uk)*<br/>
 
     
 </div>
 </td><td valign="top" width="50%">
   <div align="start">  
-:arrow_right: *[https://www.feelgreatvitamins.com](https://www.feelgreatvitamins.com)*<br/>
+
 :arrow_right: *[https://www.floatingflame.com](https://www.floatingflame.com)*<br/>
 :arrow_right: *[https://www.redbarn.com](https://www.redbarn.com)*<br/>
 :arrow_right: *[https://www.wholesupp.com](https://www.wholesupp.com)*<br/>
-:arrow_right: *[https://www.redbarn.com](https://www.redbarn.com)*<br/>
 :arrow_right: *[https://www.mybeebalmco.com](https://www.mybeebalmco.com)*<br/>
 :arrow_right: *[https://www.glomelanin.com](https://www.glomelanin.com)*<br/>
 :arrow_right: *[https://www.thegreysofa.com](https://www.thegreysofa.com)*<br/>
