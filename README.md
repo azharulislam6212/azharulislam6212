@@ -75,7 +75,7 @@ Passionate about e-commerce and continuous learning, I stay updated with industr
 
 <table width="100%"><tr><td valign="top" width="50%">
   <div align="start">  
-    
+
 :arrow_right: *[https://www.apexinc.co](https://www.apexinc.co)*<br/>
 :arrow_right: *[https://www.gatku.com](https://www.gatku.com)*<br/>
 :arrow_right: *[https://www.gilley.uk](https://www.gilley.uk)*<br/>
