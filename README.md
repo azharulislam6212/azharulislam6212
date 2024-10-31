@@ -82,9 +82,9 @@ Passionate about e-commerce and continuous learning, I stay updated with industr
 :arrow_right: *[https://www.bluebrand.com](https://www.bluebrand.com)*<br/>
 :arrow_right: *[https://www.apexinc.co](https://www.apexinc.co)*<br/>
 :arrow_right: *[https://www.gatku.com](https://www.gatku.com)*<br/>
-:arrow_right: *[https://www.snoozetherapy.co.uk](https://www.snoozetherapy.co.uk)*<br/>
+
 :arrow_right: *[https://www.gilley.uk](https://www.gilley.uk)*<br/>
-:arrow_right: *[https://www.hellerproducts.com](https://www.hellerproducts.com)*<br/>
+
     
 </div>
 </td><td valign="top" width="50%">
