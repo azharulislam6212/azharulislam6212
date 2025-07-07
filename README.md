@@ -87,18 +87,15 @@ Let’s build something amazing that converts. 🚀
 
 ## Portfolio Links
 
-<table width="100%"><tr><td valign="top" width="50%">
+<table width="100%"><tr><td valign="top" width="100%">
   <div align="start">  
     
 :arrow_right: *[https://www.apexinc.co](https://www.apexinc.co)*<br/>
 :arrow_right: *[https://www.gatku.com](https://www.gatku.com)*<br/>
+:arrow_right: *[https://www.floatingflame.com](https://www.floatingflame.com)*<br/>
+:arrow_right: *[https://www.redbarn.com](https://www.redbarn.com)*<br/>
+:arrow_right: *[https://www.phonerebel.com](https://www.phonerebel.com)*<br/>
 
-</div>
-</td><td valign="top" width="50%">
-  <div align="start">  
-    :arrow_right: [https://www.floatingflame.com](https://www.floatingflame.com)*<br/>
-    :arrow_right: [https://www.redbarn.com](https://www.redbarn.com)*<br/>
-    :arrow_right: [https://www.redbarn.com](https://www.phonerebel.com)*<br/>
 </div>
 </td></tr></table>  
 
