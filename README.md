@@ -96,9 +96,9 @@ Let’s build something amazing that converts. 🚀
 </div>
 </td><td valign="top" width="50%">
   <div align="start">  
-:arrow_right: *[https://www.floatingflame.com](https://www.floatingflame.com)*<br/>
-:arrow_right: *[https://www.redbarn.com](https://www.redbarn.com)*<br/>
-:arrow_right: *[https://www.phonerebel.com](https://www.phonerebel.com)*<br/>
+    :arrow_right: [https://www.floatingflame.com](https://www.floatingflame.com)*<br/>
+    :arrow_right: [https://www.redbarn.com](https://www.redbarn.com)*<br/>
+    :arrow_right: [https://www.redbarn.com](https://www.phonerebel.com)*<br/>
 </div>
 </td></tr></table>  
 
