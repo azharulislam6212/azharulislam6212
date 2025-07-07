@@ -1,13 +1,13 @@
 
   
 
-### <div align="start">I'm Azharul Islam Nipu, a full-time Shopify developer 👨‍💻 working remotely since 2017🚀</div>  
+### <div align="start">🚀 eCommerce Website Developer | Shopify + Modern Front-End🚀</div>  
   
 
 - 🔭 I’m currently working on [webrito,com](https://webrito.com)  
   
 
-- ❓ Ask me about anything related to Shopify and related technologies  ✅  ► azharulislamnipu@gmail.com
+- ❓ Ask me about anything related to Shopify and related technologies  ✅  ► azharulislam6212@gmail.com
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -19,9 +19,23 @@
 
 ## 🚀 About Me
 <div align="start">  
-I am an experienced Shopify developer with over five years of dedicated expertise in designing, building, and maintaining high-performing e-commerce websites. My journey in the e-commerce space has equipped me with a deep understanding of Shopify's ecosystem, allowing me to create custom themes that not only reflect brand identity but also optimize user experience and drive conversions.
+👋 Hi, I'm Azhar — a Shopify & front-end developer with 6+ years of hands-on experience building high-converting, custom-coded eCommerce websites.
 
-Passionate about e-commerce and continuous learning, I stay updated with industry trends and emerging technologies to provide cutting-edge solutions.
+🛍 I specialize in:
+- **Shopify 2.0 theme development** (from scratch, no page builders)
+- **Pixel-perfect Figma to Liquid** implementations
+- **Performance tuning**, responsive design, and SEO best practices
+
+💼 I’ve built 15+ live Shopify stores for clients across the fashion, wellness, furniture, and pet care industries — always focusing on speed, scalability, and clean UX.
+
+💡 Tech Stack:
+Shopify Liquid | HTML5 | CSS3 | JavaScript | Tailwind CSS | Git | Figma | PageFly/Shogun (when required)
+
+📈 On Upwork, I’m helping brands grow through clean, optimized code:
+🔗 [My Upwork Profile](https://www.upwork.com/freelancers/~01f11ed4be6556a8ab?mp_source=share)
+
+Let’s build something amazing that converts. 🚀
+
 </div>
 
 ## My Skill Set  
