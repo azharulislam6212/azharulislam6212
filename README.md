@@ -5,11 +5,7 @@
   
 
 - 🔭 I’m currently working on [webrito,com](https://webrito.com)  
-  
-
 - ❓ Ask me about anything related to Shopify and related technologies  ✅  ► azharulislam6212@gmail.com
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
 
   </div>
@@ -26,10 +22,10 @@
 - **Pixel-perfect Figma to Liquid** implementations
 - **Performance tuning**, responsive design, and SEO best practices
 
-💼 I’ve built 15+ live Shopify stores for clients across the fashion, wellness, furniture, and pet care industries — always focusing on speed, scalability, and clean UX.
+💼 I’ve built 150+ live Shopify stores for clients across the fashion, wellness, furniture, and pet care industries — always focusing on speed, scalability, and clean UX.
 
 💡 Tech Stack:
-Shopify Liquid | HTML5 | CSS3 | JavaScript | Tailwind CSS | Git | Figma | PageFly/Shogun (when required)
+Shopify Liquid | HTML5 | CSS3 | JavaScript | Git | Figma | PageFly/Shogun (when required)
 
 📈 On Upwork, I’m helping brands grow through clean, optimized code:
 🔗 [My Upwork Profile](https://www.upwork.com/freelancers/~01f11ed4be6556a8ab?mp_source=share)
@@ -89,7 +85,11 @@ Let’s build something amazing that converts. 🚀
 
 <table width="100%"><tr><td valign="top" width="100%">
   <div align="start">  
-    
+
+:arrow_right: *[https://ecowhides.com](https://ecowhides.com)*<br/>
+:arrow_right: *[https://gilley.uk](https://gilley.uk)*<br/>
+:arrow_right: *[https://wholesupp.com](https://wholesupp.com)*<br/>
+:arrow_right: *[https://snoozetherapy.co.uk](https://snoozetherapy.co.uk)*<br/>
 :arrow_right: *[https://www.apexinc.co](https://www.apexinc.co)*<br/>
 :arrow_right: *[https://www.gatku.com](https://www.gatku.com)*<br/>
 :arrow_right: *[https://www.floatingflame.com](https://www.floatingflame.com)*<br/>
